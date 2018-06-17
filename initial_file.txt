@@ -1,0 +1,1 @@
+O primeiro arquivo do repositório local. Se ele estiver no GitHub, é sinal de que estou aprendendo a mexer nos comandos do Git. :)
