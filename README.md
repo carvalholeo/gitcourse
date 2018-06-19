@@ -12,10 +12,6 @@ Favor desconsiderar o conteúdo deste repositório, pois não tens objetivos profis
 #Git course
 Este é um repositório para aprender como o Git funciona.
 
-Saiba mais em [willianjusten.com.br](http://willianjusten.com.br)
-
 Gostou do curso? Quer mais? Ajude com uma doação. Até um café é válido =)
 
 Gostou do repositório? Quer me contratar?? Mande um e-mail =D !! [E-mail pessoal](mailto:carvalho.csleo@gmail.com)
-
-Novo conteúdo de teste para um novo branch.
